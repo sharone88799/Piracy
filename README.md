@@ -1,10 +1,4 @@
 Updated on 26-Jan-2020
-Maintained by @windowsaddict
-
-__________________________________________________________________________________________________________
-
-  Download Genuine Installation Media: (Windows /Office /Server - .ISO .IMG .ESD .EXE and UUP files)
-__________________________________________________________________________________________________________
 
  - Basic info:
 
@@ -27,32 +21,6 @@ ________________________________________________________________________________
      Techbench hosts Retail .ISO's.
      MVS hosts both Retail and Volume .ISO's.
      VLSC hosts Volume .ISO's.
-
-__________________________________________________________________________________________________________
-
- - Official method (Public Links):
-
-   - Windows 7
-     https://www.microsoft.com/en-us/software-download/windows7
-     You need a genuine key to download the .ISO's from official MS download page.
-
-   - Windows 8.1
-     https://www.microsoft.com/en-us/software-download/windows8ISO
-     You can directly download the .ISO's from here.
-
-   - Windows 10
-     https://www.microsoft.com/en-us/software-download/windows10
-     By default it doesn't provide the .ISO to Windows OS users directly, but instead provides a tool 
-     named 'Media Creation Tool' which then CREATES the .ISO (which means their .ISO can't be verified
-     by using a hash) which is based on ESD. To get the direct .ISO file you have to change the 
-     browser user agent to some other operating system than Windows. (an .ISO created with the Media 
-     Creation Tool is smaller than the directly downloaded .ISO)
-
-   - Office
-     Office .ISO links are buried deeply within the MS web page system, and require a log in and keys
-     to download the .ISO. However, Office .ISO links are static. Below, is a partial list of places 
-     you can download Office ISO easily, and not have to deal directly with MS’s difficult web page 
-     system.
 
 __________________________________________________________________________________________________________
 
