@@ -1,3 +1,6 @@
+WINDOWS -
+
+
 Updated on 26-Jan-2020
 
  - Basic info:
@@ -120,3 +123,17 @@ ________________________________________________________________________________
    HashTab                                   http://implbits.com/products/hashtab/
    OpenHashTab                               https://github.com/namazso/OpenHashTab
 __________________________________________________________________________________________________________
+
+GAMING-
+
+https://titlekeys.ovh/
+
+https://fitgirl-repacks.site/
+
+https://vimm.net/
+
+https://www.reddit.com/r/yuzupiracy1/
+
+https://www.ziperto.com/
+
+https://nxbrew.com/
